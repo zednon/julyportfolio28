@@ -1,0 +1,63 @@
+header {
+  background-color: teal;
+height: auto; 
+}
+
+.main{
+    background-color: pink;
+    height: auto;
+}
+
+footer {
+    background-color: aqua;
+    height: 300px;
+}
+
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bookWormImg {
+    padding: 15%;
+    
+}
+
+.sideNavli a {
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+.sideNavli {
+    font-size: 30px;
+    padding-left: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+aside {
+  width: 30%;
+  background-color: teal;
+
+}
+
+.right {
+    margin-left: 10%;
+}
+
+.button {
+    padding: 5% 10%;
+    background-color: antiquewhite;
+    color: darkcyan;
+    font-size: 20px;
+    border: solid rgb(160, 57, 162) 3px;
+    
+}
+
+section {
+ 
+}
